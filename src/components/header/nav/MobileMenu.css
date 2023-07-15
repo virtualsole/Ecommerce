@@ -1,0 +1,65 @@
+
+.lunch {
+    display: none;
+    background: none;
+    border: none;
+    color: #000;
+    box-shadow: none;
+ 
+} 
+
+.btn-primary {
+    -mdb-btn-hover-bg: 0; 
+    --mdb-btn-hover-color: 0; 
+    --mdb-btn-focus-bg: 0; 
+    --mdb-btn-focus-color: 0; 
+    --mdb-btn-active-bg: 0; 
+    --mdb-btn-active-color: 0; 
+    --mdb-btn-box-shadow-state: 0;
+}
+
+.lunch:hover {
+    cursor: pointer;
+    background: none;
+    color: #000;
+}
+
+ .navbar-nav {
+    width: 100%;
+  
+}
+
+
+.nav-link {
+    color: #000;
+}
+
+.dropdown-item {
+    color: #000;
+}
+.nav-pills .nav-link.active {
+    --mdb-nav-pills-link-active-bg: #000000;
+    --mdb-nav-pills-link-active-color: #ffff;
+}
+
+.navbar-toggler-icon  {
+    display: block;
+}
+@media only screen and (max-width: 600px) {
+    .lunch {
+        display: block;
+        position: absolute;
+        top: 5rem !important;
+    }
+}
+@media only screen and (max-width: 900px) {
+    .lunch {
+        display: block;
+        position: absolute;
+        top: 3.5rem;
+    }
+    .navbar .mob_container   {
+            display: flex;
+            flex-direction: column;
+    }
+}

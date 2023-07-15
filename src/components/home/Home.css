@@ -1,0 +1,82 @@
+
+.btn_home {
+    border: 1px solid #000;
+    color: #000;
+    
+}
+.btn_home:hover {
+    background-color: #56cfe1;
+    color: #fff;
+  }
+.carousel-indicators [data-bs-target] {
+    display: none;
+} 
+
+.carousel-control-next-icon {
+    display: none;
+}
+
+.carousel-control-prev-icon {
+    display: none;
+}
+
+
+@media only screen and (max-width: 400px) {
+    .carousel-caption{
+        bottom: -1.75rem !important;
+    }
+    .btn_home {
+        display: none;
+    }
+    .carousel-indicators [data-bs-target] {
+        display: none;
+    } 
+    .carousel-control-next-icon {
+        display: none;
+    }
+    
+    .carousel-control-prev-icon {
+        display: none;
+    }
+    
+    
+}
+@media only screen and (max-width: 600px) {
+  
+    .head_hm {
+        display: none;
+    }
+    .carousel-control-next-icon {
+        display: none;
+    }
+    .carousel-caption_first h5 {
+        font-size: 10px;
+    }
+    .sm_head {
+        font-size: 30px !important;
+       
+    }
+    .carousel-indicators [data-bs-target] {
+        display: none;
+    } 
+    .carousel-control-prev-icon {
+        display: none;
+    }
+    
+    
+}
+
+@media only screen and (max-width: 1200px) {
+
+    .carousel-control-next-icon {
+        display: none;
+    }
+    .carousel-indicators [data-bs-target] {
+        display: none;
+    } 
+    .carousel-control-prev-icon {
+        display: none;
+    }
+    
+    
+}

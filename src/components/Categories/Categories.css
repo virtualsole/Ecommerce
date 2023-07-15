@@ -1,0 +1,60 @@
+
+     .btn_categories{
+     
+      min-width: 100px;
+      width: fit-content;
+      height: 50px;
+      padding: 0.7rem 17px;
+      margin: 0 auto;
+      cursor: pointer;
+      border: none;
+      border-radius: 5px;
+      background-color: white;
+      text-transform: uppercase;
+      font-weight: 500;
+      justify-content: center;
+      display: flex;
+      position: relative;
+      top: -5rem;
+      transition: .3s all ease;
+    }
+
+    .btn_categories:hover {
+      background-color: #56cfe1;
+      color: #fff;
+    }
+    .img_categories {
+      width: 634px;
+       height: 275px;
+    
+    }
+
+
+
+    @media only screen and (max-width: 600px) {
+      .img_categories {
+        width: 100%;
+        height: auto;
+      } 
+      .women_categories {
+        width: 100%;
+        height: auto;
+      }
+    }
+    @media only screen and (max-width: 1200px) {
+      .img_categories {
+        width: 100%;
+        height: auto;
+      } 
+      .women_categories {
+        width: 100%;
+        height: auto;
+      }
+      .stak-sd {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+        text-align: center;
+     }
+    }

@@ -1,0 +1,73 @@
+# Query: <a href="#">View <BsArrowRightShort /></a>
+# ContextLines: 1
+
+11 results - 11 files
+
+src\components\B_Trending\BTrending.jsx:
+  103                                  <LinkContainer to="singleproduct">
+  104:                             <a href="#">View <BsArrowRightShort /></a>
+  105                              </LinkContainer>
+
+src\components\header\nav\Search\Search.jsx:
+  108                                <LinkContainer to="singleproduct">
+                            <a href="#">View <BsArrowRightShort /></a>
+                            </LinkContainer>
+
+src\components\trending\Trending.jsx:
+  102                              <LinkContainer to="singleproduct">
+  103:                             <a href="#">View <BsArrowRightShort /></a>
+  104                              </LinkContainer>
+
+src\pages\multiiPages\casual\Casual.jsx:
+  104                            <LinkContainer to="singleproduct">
+                            <a href="#">View <BsArrowRightShort /></a>
+                            </LinkContainer>
+
+src\pages\multiiPages\formal\Formal.jsx:
+  104                          <div className="content">
+  105:                            <LinkContainer to="singleproduct">
+                            <a href="#">View <BsArrowRightShort /></a>
+                            </LinkContainer>
+  106                          </div>
+
+src\pages\multiiPages\new\New.jsx:
+  104                          <div className="content">
+  105:                            <LinkContainer to="singleproduct">
+                            <a href="#">View <BsArrowRightShort /></a>
+                            </LinkContainer>
+  106                          </div>
+
+src\pages\multiiPages\semiFormal\SemiFormal.jsx:
+  104                          <div className="content">
+  105:                            <LinkContainer to="singleproduct">
+                            <a href="#">View <BsArrowRightShort /></a>
+                            </LinkContainer>
+  106                          </div>
+
+src\pages\products_Page\Product.jsx:
+  145                          <div className="content">
+  146:                            <LinkContainer to="singleproduct">
+                            <a href="#">View <BsArrowRightShort /></a>
+                            </LinkContainer>
+  147                          </div>
+
+src\pages\products_Page\kid\Kid.jsx:
+  104                          <div className="content">
+  105:                            <LinkContainer to="singleproduct">
+                            <a href="#">View <BsArrowRightShort /></a>
+                            </LinkContainer>
+  106                          </div>
+
+src\pages\products_Page\mens\Mens.jsx:
+  104                          <div className="content">
+  105:                            <LinkContainer to="singleproduct">
+                            <a href="#">View <BsArrowRightShort /></a>
+                            </LinkContainer>
+  106                          </div>
+
+src\pages\products_Page\womens\Womens.jsx:
+  105                          <div className="content">
+  106:                          <LinkContainer to="singleproduct">
+                            <a href="#">View <BsArrowRightShort /></a>
+                            </LinkContainer>
+  107                          </div>
