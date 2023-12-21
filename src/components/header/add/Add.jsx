@@ -39,9 +39,11 @@ const Add = () => {
         {/* Add more language options as needed */}
       </select>
         <select value={selectedCurrency} onChange={handleCurrencyChange}>
-        <option value="usd">USD</option>
-        <option value="eur">EUR</option>
-        <option value="gbp">GBP</option>
+        <option value="usd">VRC</option>
+        <option value="eur">PKR</option>
+        <option value="gbp">USD</option>
+        <option value="gbp">INR</option>
+
         {/* Add more currency options as needed */}
       </select>
     </div>

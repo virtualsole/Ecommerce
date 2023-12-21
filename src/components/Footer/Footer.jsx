@@ -17,21 +17,20 @@ const Footer = () => {
                     <div className="c-item">
                         <FaLocationArrow />
                         <div className="text">
-                        184 Main Rd E, St Albans
-VIC 3021, Australia
+                        Office # 702, Al Saud Building - Al Qusais Industrial Area 4-Dubai-United Arab Emirates
                         </div>
                     </div>
                     <div className="c-item">
                         <FaMobileAlt />
                         <div className="text">
-                          +001 2233 456
+                          +97-150-994-9375
 
                         </div>
                     </div>
                     <div className="c-item">
                         <FaEnvelope />
                         <div className="text">
-                             contact@company.com
+                             ecomm@virtualstore.com
                         </div>
                     </div>
                 </div>

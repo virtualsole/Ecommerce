@@ -19,13 +19,13 @@ function Uncontrolled () {
           alt="First slide"
         />
         <Carousel.Caption>
-          <h5 className='text-dark'>Spring - Summer 2020</h5>
+          <h5 className='text-dark'>Virtual Store</h5>
           <h3 className='text-dark sm_head' style={{
             fontWeight: "700",
             fontSize: "50px"
-          }}>FLASH SALE OF 70%</h3>
-          <p className='text-dark head_hm'>Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident</p>
-          <a href="#" class="btn btn-default btn_home">Shop now</a>
+          }}>FIRST CRYPTOCURRENCY STORE</h3>
+          <p className='text-dark head_hm'></p>
+          <a href="#" class="btn btn-default btn_home">Launching Soon</a>
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
@@ -36,13 +36,13 @@ function Uncontrolled () {
         />
 
 <Carousel.Caption>
-          <h5 className='text-dark'>Spring - Summer 2020</h5>
+          <h5 className='text-dark'>Virtual Store</h5>
           <h3 className='text-dark sm_head' style={{
             fontWeight: "700",
             fontSize: "50px"
-          }}>FLASH SALE OF 70%</h3>
-          <p className='text-dark head_hm '>Duis aute irure dolor in reprehenderit in voluptate velit essecillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat nonproident</p>
-          <a href="#" class="btn btn-default btn_home">Shop now</a>
+          }}>FIRST CRYPTOCURRENCY STORE</h3>
+          <p className='text-dark head_hm '></p>
+          <a href="#" class="btn btn-default btn_home">Launching Soon</a>
         </Carousel.Caption>
       </Carousel.Item>
       
